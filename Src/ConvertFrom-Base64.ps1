@@ -5,7 +5,7 @@ function ConvertFrom-Base64 {
         [string]
         $String
     )
-    
+
     process {
         $bytes = [Convert]::FromBase64String($String)
         [System.Text.Encoding]::UTF8.GetString($bytes)
