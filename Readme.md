@@ -40,8 +40,13 @@ DESCRIPTION
     to convert the UTF8 input string to a byte[] and then back to Base64
 ```
 
-## Progress:
+## Installation
+```
+Install-Module -Name ConvertBase64Strings
+```
+
+## Progress
 - [x] Build process
-- [ ] Release process
+- [x] Release process
 - [x] Documentation
 - [ ] Script signing
