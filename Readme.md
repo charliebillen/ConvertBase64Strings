@@ -4,3 +4,8 @@
 
 This module provides two small advanced functions that convert UTF8 strings to and from Base64 encoding.
 
+## Progress:
+- [x] Build process
+- [ ] Release process
+- [ ] Documentation
+- [ ] Script signing
